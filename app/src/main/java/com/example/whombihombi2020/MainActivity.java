@@ -1,11 +1,10 @@
 package com.example.whombihombi2020;
 
+import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
-
 public class MainActivity extends AppCompatActivity {
-
+    //Grosses M kleine eier
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
